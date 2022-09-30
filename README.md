@@ -3,7 +3,7 @@ TinDog Starting Files
 
 Live at https://bickybong.github.io/TinDog-Start/
 
-Web app promoting thinder-like app for dog users
+Web app promoting thinder-like app for dog users build to practice front-end development
 
 Created with Bootstrap, CSS3 and HTML5
 
