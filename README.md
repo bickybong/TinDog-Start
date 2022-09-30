@@ -13,6 +13,8 @@ Learning outcomes:
 1. Use navbar to link to id in a page
 2. Create hover effects for buttons
 3. Carousel that turns based on button clicks
-4. Cards for pricing
-5. Social media icon tags
-6. Copyright tag
+4. Create custom cards with features for pricing options
+5. UI/UX design flow of wireframing to development
+6. Color palete choices depending on web app requirements
+7. Social media icon tags
+8. Copyright tag
